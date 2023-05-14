@@ -1,0 +1,12 @@
+.service_card{
+    background-color: rgba(255, 255, 255, 0.097);
+}
+.service_card:hover{
+    transition: 1s ease-in;
+    border: 2px solid #0ef;
+    /* padding: 10px; */
+}
+.service{
+    /* border: 0.6px solid white; */
+    border-top: 0.8px solid rgba(255, 255, 255, 0.245);
+    }
